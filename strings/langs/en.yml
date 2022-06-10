@@ -237,23 +237,23 @@ stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "🗑 Close"
-CLOSEMENU_BUTTON  : "🗑 Close Menu"
-BACK_BUTTON : "⬅ Back"
+CLOSE_BUTTON  : "【﻿ 𝘾𝙡𝙤𝙨𝙚 】"
+CLOSEMENU_BUTTON  : "【 ﻿𝘾𝙡𝙤𝙨𝙚 𝙈𝙚𝙣𝙪 】"
+BACK_BUTTON : "【 ﻿𝘽𝙖𝙘𝙠 】"
 UNBAN_BUTTON : "🗑 Unban Assistant"
 
 #Lyrics
 L_B_1 : "🚀 Checkout Lyrics Now"
 
 # Start
-S_B_1 : "🗒 Commands"
-S_B_2 : "🔧 Settings"
+S_B_1 : "【 ﻿𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 】"
+S_B_2 : "【 ﻿𝙎𝙚𝙩𝙩𝙞𝙣𝙜𝙨 】"
 S_B_3 : "📨 Support"
 S_B_4 : "📨 Channel"
-S_B_5 : "✚ Add me to your Group"
+S_B_5 : "【 ﻿Use-Me ❤ 】"
 S_B_6 : "💡 Git Repo"
 S_B_7 : "👤 Bot Owner"
-S_B_8 : "🔎 How to Use? Commands Menu."
+S_B_8 : "【﻿ 𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚? 🤔 】"
 
 #Help 
 H_B_1 : "Admin Commands"
@@ -276,8 +276,8 @@ P_B_4 : "🎵 Play Playlist"
 
 #Playlist
 PL_B_1 : "🚀 Play Playlist"
-PL_B_2 : "✚ Playlists"
-PL_B_3 : "✚ CPanel"
+PL_B_2 : "【﻿ 𝙊𝙬𝙣𝙚𝙧 】"
+PL_B_3 : "【 𝘾-𝙋𝙖𝙣𝙚𝙡 】"
 PL_B_4 : "📡 Play Mode"
 PL_B_5 : "🔄 Del Whole Playlist"
 PL_B_6 : "↗️ Delete Playlist"
