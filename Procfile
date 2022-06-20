@@ -1,1 +1,1 @@
-worker: bash yukkimusicbot
+worker:  /bin/sh -c bash\ start
